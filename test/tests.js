@@ -1,3 +1,5 @@
+/*test*/
+
 /* SINGLE BLOCK BASICS */
 module('single block', {
   setup: function() {
